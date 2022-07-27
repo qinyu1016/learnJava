@@ -14,4 +14,8 @@ public class Student {
     public void doRadioGymnastics(){
         System.out.println("我们在认真做广播体操");
     }
+     public void doGoLibrary(){
+        System.out.println("在图书馆学习");
+    }
+    
 }
